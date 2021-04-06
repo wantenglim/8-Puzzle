@@ -33,5 +33,15 @@ The final output of the program are Moves, Number of Nodes Expanded, Time Taken(
 Sample Output of h1:
 
 ![h1 Result](https://github.com/wantenglim/8-Puzzle/blob/main/Images/h1%20Result.png)
+
 ![h1 Search Tree Iteration 1](https://github.com/wantenglim/8-Puzzle/blob/main/Search%20Tree%20Images/h1/h1Iteration1.png)
 
+## Reference
+These codes are enhanced and modified from:
+
+Hatten, D. (2020, March 2). 15Puzzle. GitHub Repository.
+https://github.com/danhat/15Puzzle/tree/767ff63a3da1c56fb56b7a0d30536a547a3
+2e397
+
+Sarangkoti, B. (2019, December 27). 8-Puzzle-Problem. GitHub Repository.
+https://github.com/Bishalsarang/8-Puzzle-Problem
