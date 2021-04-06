@@ -16,6 +16,8 @@ There are 3 types of input method to set the initial state.
 2. Take user input row wise
 3. Use random number
 
+Sample Initial State / Input:
+
 ![initial state](https://github.com/wantenglim/8-Puzzle/blob/main/Images/Initial%20State.png)
 
 ## Evaluation Function
@@ -29,6 +31,7 @@ The final evaluation function is f(n) = g(n) + h(n) where g(n) is the sum of the
 The final output of the program are Moves, Number of Nodes Expanded, Time Taken(ns), Memory Used and each iteration Search Tree Images.
 
 Sample Output of h1:
+
 ![h1 Result](https://github.com/wantenglim/8-Puzzle/blob/main/Images/h1%20Result.png)
 ![h1 Search Tree Iteration 1](https://github.com/wantenglim/8-Puzzle/blob/main/Search%20Tree%20Images/h1/h1Iteration1.png)
 
