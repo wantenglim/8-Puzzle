@@ -2,7 +2,7 @@
 
 A 3-by-3 sliding puzzle with 8 square blocks labeled 1 through 8 and an empty space. The number 0 is used to represent the empty space. The Iterative Deepening A Star (IDA*) algorithm is applied to solve 8 Puzzle by achieving the goal state as
 
-![image](Images/Goal State.png)
+<img src=“Images/Goal State.png">
 
 ## How To Run:
 1. Upload helperfunctions.py to 8Puzzle.ipynb
@@ -16,7 +16,7 @@ There are 3 types of input method to set the initial state.
 2. Take user input row wise
 3. Use random number
 
-![image](Images/Initial State.png)
+<img src=“Images/Initial State.png”>
 
 
 ## Evaluation Function
@@ -29,6 +29,6 @@ The final evaluation function is f(n) = g(n) + h(n) where g(n) is the sum of the
 ## Output
 The final output of the program are Moves, Number of Nodes Expanded, Time Taken(ns), Memory Used and Search Tree Images.
 
-![image](Images/h1 Result.png)
-![image](Search Tree Images/h1Iteration1.png)
+<img src=“Images/h1 Result.png”>
+<img src=“Images/h1Iteration1.png”>
 
