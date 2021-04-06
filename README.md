@@ -40,8 +40,7 @@ Sample Output of h1:
 These codes are enhanced and modified from:
 
 Hatten, D. (2020, March 2). 15Puzzle. GitHub Repository.
-https://github.com/danhat/15Puzzle/tree/767ff63a3da1c56fb56b7a0d30536a547a3
-2e397
+https://github.com/danhat/15Puzzle/tree/767ff63a3da1c56fb56b7a0d30536a547a32e397
 
 Sarangkoti, B. (2019, December 27). 8-Puzzle-Problem. GitHub Repository.
 https://github.com/Bishalsarang/8-Puzzle-Problem
